@@ -1,0 +1,144 @@
+*{
+    box-sizing: border-box;
+}
+body{
+  
+    background-color: #e5d8bf;
+}
+.logo{
+    width: 100px;
+    margin-left: 50px;
+}
+.header{
+
+    background-color: #ffffff;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.2em;      
+}
+.logo-bot{
+    width: 40px; 
+    margin-left: 10px;
+}
+.a {
+    text-decoration: none; 
+    color:rgb(103, 107, 107);
+    margin: 30px;
+    transition: 0.7s ease
+}
+.a:hover{
+    font-size: 1.5em;
+    color: rgb(128, 29, 153);
+}
+.icon{
+   margin: 10px;
+}
+.h3-logo{
+    color: #7b2bc5b0; 
+    font-size: 1.5em;
+    margin-right: 30px;
+    float: right;
+   
+}
+ .sgin-in{
+    text-decoration: none; 
+    color: rgb(103, 107, 107);
+    margin: 10px;
+    transition: 0.7s ease ;
+    font-size: 1.3em;
+
+ }
+ .sgin-in:hover{
+    font-size: 2em;
+    color: rgb(128, 29, 153);
+
+ }
+ .sgin-up{
+    display: inline;
+    text-decoration: none; 
+    background-color: blueviolet;
+    padding:12px;
+    letter-spacing: 1px;
+    border-radius: 1em;
+    color: #fff;
+    width: 30px;
+    font-size: 1em;
+    text-align: center;
+    justify-content: center;
+    transition: 0.7s ease
+ }
+ .img-body{
+    float: right;
+    margin-right: 50px;
+ }
+.smart{
+    color: rgb(138, 82, 158);
+    margin-left: 30px;
+}
+.sgin-up:hover{
+    font-size: 1.5em;
+    background: none; 
+    color: rgb(128, 29, 153); 
+
+}
+.code{
+    margin-left: 30px; 
+    color: rgb(111, 34, 139);
+    
+}
+.cust{
+    margin-left: 30px;
+}
+.lorem{
+    margin-left: 30px; 
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    
+}
+.btn{
+    color: #eee;
+    background-color: #6922b9;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: 600;
+    display: inline-block;
+    padding: 0.937em 2.187em;
+    letter-spacing: 1px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    transition: 0.7s ease;
+    margin-left: 30px;
+    
+}
+.btn:hover{
+    font-size: 1.5em;
+   
+}
+footer{
+    background-color: #000016;
+    color: #fff;
+    padding: 1.8em;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 350px;
+}
+.icon{
+    color: #fff;
+    text-decoration: none;
+    /* font-size: 30px; */
+    margin: 12px;
+    justify-content: center;
+}
+.footer-title{
+font-size: 1.5em;
+
+}
+span{
+    color: #6922b9;
+}
+    
+    
+
+

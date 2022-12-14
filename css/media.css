@@ -1,0 +1,81 @@
+
+ 
+
+
+@media (max-width : 767px)  {  /* mobile & tablet Rules */
+    
+    
+   .img-body{
+    width: 300px ;
+   }
+    
+   .a{
+    font-size: 0.8em ;
+   }
+   .a:hover{
+    font-size: 1.5em;
+   }
+ 
+   .h3-logo{
+    margin-bottom: 10px;
+   }
+   .logo{
+    margin-top: 10px;
+   }
+   .sgin-in{
+   margin-bottom: 30px;
+  }
+   .sgin-up:hover {
+    background: none; 
+    color: rgb(128, 29, 153); 
+    font-size:  1.3em;
+    } 
+}
+    
+   
+
+
+
+
+
+ 
+
+
+
+@media (min-width : 768px ) {  /* small screen Rules */
+ .img-body{
+    width: 350px;
+ }
+} 
+
+
+
+
+@media (min-width : 992px ) {  /* medium screen Rules */
+.img-body{
+    width: 400px;
+}
+
+} 
+
+
+
+
+@media (min-width : 1200px ) {  /* large screen Rules */
+ .img-body{
+    width: 600px;
+ }
+ .lorem{
+    font-size: 1.5em;
+ }
+}
+
+
+
+
+
+
+
+
+
+
